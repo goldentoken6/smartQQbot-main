@@ -8,7 +8,6 @@ SmartQQBot
 + 贡献文档[Contribution Guide](resources/ContributionGuide.md)
 + API 文档[API Reference](resources/API.md)
 + 常见问题[FAQ](resources/FAQ.md)(no-gui登录, debug模式, etc)
-
 ## 依赖
 + `PIL` or `Pillow`
 + `six` and `requests`
